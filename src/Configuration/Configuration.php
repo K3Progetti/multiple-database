@@ -1,6 +1,6 @@
 <?php
 
-namespace AvaiBookSports\Bundle\MigrationsMutlipleDatabase\Configuration;
+namespace AvaiBookSports\Bundle\MigrationsMultipleDatabase\Configuration;
 
 use Doctrine\Migrations\DependencyFactory;
 

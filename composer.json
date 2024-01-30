@@ -1,5 +1,5 @@
 {
-	"name": "avaibooksports/doctrine-migrations-multiple-database-bundle",
+	"name": "k3progetti/multiple-database",
 	"type": "symfony-bundle",
 	"description": "Symfony DoctrineMigrationsMultipleDatabaseBundle",
 	"keywords": ["DBAL", "Migrations", "Schema", "Multiple databases"],
@@ -31,7 +31,7 @@
 	},
 	"autoload": {
 		"psr-4": {
-			"AvaiBookSports\\Bundle\\MigrationsMutlipleDatabase\\": "src/"
+			"AvaiBookSports\\Bundle\\MigrationsMultipleDatabase\\": "src/"
 		}
 	}
 }

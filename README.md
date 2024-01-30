@@ -8,7 +8,7 @@ in a hacky and dirty way to provide a easy way to configure migrations paths for
 - Install the package by running `composer require avaibooksports/doctrine-migrations-multiple-database-bundle`
 - Go to your `config/bundles.php` file and register the bundle:
 ```php
-AvaiBookSports\Bundle\MigrationsMutlipleDatabase\DoctrineMigrationsMultipleDatabaseBundle::class => ['all' => true],
+AvaiBookSports\Bundle\MigrationsMultipleDatabase\DoctrineMigrationsMultipleDatabaseBundle::class => ['all' => true],
 ```
 - Finally, create a file in `config/packages/` called `doctrine_migrations_multiple_database.yaml` and follow the next example:
 ```yaml

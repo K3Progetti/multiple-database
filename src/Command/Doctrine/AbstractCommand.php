@@ -1,8 +1,8 @@
 <?php
 
-namespace AvaiBookSports\Bundle\MigrationsMutlipleDatabase\Command\Doctrine;
+namespace AvaiBookSports\Bundle\MigrationsMultipleDatabase\Command\Doctrine;
 
-use AvaiBookSports\Bundle\MigrationsMutlipleDatabase\Configuration\Configuration;
+use AvaiBookSports\Bundle\MigrationsMultipleDatabase\Configuration\Configuration;
 use Doctrine\Migrations\DependencyFactory;
 use RuntimeException;
 use Symfony\Component\Console\Command\Command;
