@@ -1,29 +1,13 @@
 # Changelog
-All notable changes to this project will be documented in this file.
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
-and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
+All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
-## [0.3]
-### Added
-- Supported command `doctrine:migrations:execute`
-- Supported command `doctrine:migrations:generate`
-- Supported command `doctrine:migrations:rollup`
-- Supported command `doctrine:migrations:dump-schema`
-- Supported options `--namespace` and `--filter-expression` for `doctrine:migrations:diff` command
+## 1.1.0 (2024-01-31)
 
-## [0.2]
-### Added
-- Supported command `doctrine:migrations:current`
-- Supported command `doctrine:migrations:latest`
-- Supported command `doctrine:migrations:list`
-- Supported command `doctrine:migrations:status`
-- Supported command `doctrine:migrations:sync-metadata-storage`
-- Supported command `doctrine:migrations:up-to-date`
 
-### Changed
-- Internal class renaming
-- Command description as the original one in `doctrine:migrations:diff` and `doctrine:migrations:version`
+### Bug Fixes
+
+* name multiple ([074d643](https://github.com/K3Progetti/multiple-database/commit/074d643c318b8f2e645150924a7564891ef613dd))
 
 ## [0.1.1]
 ### Added
