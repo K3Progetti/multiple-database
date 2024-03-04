@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.2.0](https://github.com/K3Progetti/multiple-database/compare/v1.1.0...v1.2.0) (2024-03-04)
+
+
+### Features
+
+* update composer for symfony 7 ([2ff51fe](https://github.com/K3Progetti/multiple-database/commit/2ff51fea52b39455ec02318556d96eda834e8e14))
+
 ## 1.1.0 (2024-01-31)
 
 
